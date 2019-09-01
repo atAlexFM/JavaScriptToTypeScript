@@ -1,6 +1,6 @@
 # JavaScriptToTypeScript
 An initialization bash script that makes a JavaScript project TypeScript compatible. In addition, 
-the script creates an organized, React-friendly workflow.
+the script creates an organized, React-friendly project.
 
 ## Requirements
 In the Terminal, see if Node is installed: 
