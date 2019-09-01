@@ -8,8 +8,8 @@ In the Terminal, see if Node is installed:
 npm -v
 ```
 
-If not, visit the site below:
-+https://nodejs.org/en/download/
+If not, visit the site below:  
+https://nodejs.org/en/download/
 
 ## Quickstart
 Open the Terminal, and git clone the project: 
@@ -23,17 +23,17 @@ mkdir <your-directory-name>
 cd  <your-directory-name>
 ```
 
-From the Terminal, invoke the script
+From the Terminal, invoke the script:
 ```
 bash </your/path/to/js-to-ts.sh>
 ```
 
-## Directory outline
+## Outline
 ![](https://github.com/atAlexFM/JavaScriptToTypeScript/blob/master/example.png)
 
 ## Author
-+Name: Alex Yukhananov
-+Site: https://alexfm.net
+Name: Alex Yukhananov  
+Site: https://alexfm.net
 
 
 
